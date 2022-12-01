@@ -58,3 +58,22 @@ python test.py --config_file 'experiments/CUHK-PEDES/outputs/CLIP2TextReID/logs/
 
 ### Performance comparisons with state-of-the-art methods on ICFG-PEDES dataset.
 ![tab1](images/comparison1.png)
+
+## Citation
+If you find this code useful for your research, please cite our paper
+```
+Jiang D, Ye M. 2022. Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification. Journal of Image and Graphics. (姜定, 叶茫. 2022. 温度投影匹配结合CLIP的文本到图像行人重识别. 中国图象图形学报.) [DOI: 10.11834/jig.220620]
+
+@article{temperature_2022,
+	doi = {10.11834/jig.220620},
+	url = {https://doi.org/10.11834/jig.220620},
+	year = 2022,
+	number = {11},
+	author = {Jiang Ding and Ye Mang},
+	title = {Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification},
+	journal = {JOURNAL OF IMAGE AND GRAPHICS}
+}
+```
+
+## Contact
+If you have any question, please feel free to contact us. E-mail: jiangding@whu.edu.cn , yemang@whu.edu.cn
