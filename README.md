@@ -46,7 +46,7 @@ python train.py \
 --tcmpm 'on'
 ```
 
-### Inference
+### Test
 
 ```python
 python test.py --config_file 'experiments/CUHK-PEDES/outputs/CLIP2TextReID/logs/configs.yaml'
