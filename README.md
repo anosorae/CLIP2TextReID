@@ -64,7 +64,7 @@ If you find this code useful for your research, please cite our paper
 ```
 Jiang D, Ye M. 2022. Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification. Journal of Image and Graphics. (姜定, 叶茫. 2022. 温度投影匹配结合CLIP的文本到图像行人重识别. 中国图象图形学报.) [DOI: 10.11834/jig.220620]
 
-@article{temperature_2022,
+@article{jiang_2022,
 	doi = {10.11834/jig.220620},
 	url = {https://doi.org/10.11834/jig.220620},
 	year = 2022,
