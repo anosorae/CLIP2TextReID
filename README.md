@@ -34,7 +34,7 @@ Organize them in `data` folder as follows:
 ```
 
 ### Prepare CLIP Pre-trained Models
-You need to download the CLIP pretrained [ViT-B/16 model]("https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt") from [openai](https://github.com/openai/CLIP) and put it in `data` folder.
+You need to download the CLIP pretrained [ViT-B/16 model](https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt) from [openai](https://github.com/openai/CLIP) and put it in `data` folder.
 
 ### Train
 run `experiments/CUHK-PEDES/run.sh` or run python command below:
