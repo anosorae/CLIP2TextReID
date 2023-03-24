@@ -64,7 +64,7 @@ If you find this code useful for your research, please cite our paper
 ```
 Jiang D and Ye M.2023. Transformer Network for Cross-modal Text-to-Image Person Re-identification. Journal of Image and Graph⁃ ics， 28（05）：0160-0171（姜定， 叶茫.2023. 面向跨模态文本到图像行人重识别的Transformer网络. 中国图象图形学报， 28（05）：0160-0171） [10.11834/jig.220620]
 
-@article{jiang_2022,
+@article{jiang_2023,
 	doi = {10.11834/jig.220620},
 	url = {https://doi.org/10.11834/jig.220620},
 	year = 2023,
