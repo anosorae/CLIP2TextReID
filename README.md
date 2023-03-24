@@ -1,6 +1,6 @@
 # [JIG2022] Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification [pdf](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202206090000003&journal_id=jig)
 
-The official repository for 温度投影匹配结合CLIP的文本到图像行人重识别(Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification) achieves state-of-the-art performances on text-to-image person ReID.
+The official repository for 面向跨模态文本到图像行人重识别的Transformer网络(Transformer Network for Cross-modal Text-to-Image Person Re-identification) achieves state-of-the-art performances on text-to-image person ReID.
 
 
 ## Installation
@@ -62,15 +62,14 @@ python test.py --config_file 'experiments/CUHK-PEDES/outputs/CLIP2TextReID/logs/
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```
-Jiang D, Ye M. 2022. Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification. Journal of Image and Graphics. (姜定, 叶茫. 2022. 温度投影匹配结合CLIP的文本到图像行人重识别. 中国图象图形学报.) [DOI: 10.11834/jig.220620]
+Jiang D and Ye M.2023. Transformer Network for Cross-modal Text-to-Image Person Re-identification. Journal of Image and Graph⁃ ics， 28（05）：0160-0171（姜定， 叶茫.2023. 面向跨模态文本到图像行人重识别的Transformer网络. 中国图象图形学报， 28（05）：0160-0171） [10.11834/jig.220620]
 
 @article{jiang_2022,
 	doi = {10.11834/jig.220620},
 	url = {https://doi.org/10.11834/jig.220620},
-	year = 2022,
-	number = {11},
+	year = 2023,
 	author = {Jiang Ding and Ye Mang},
-	title = {Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification},
+	title = {Transformer Network for Cross-modal Text-to-Image Person Re-identification},
 	journal = {JOURNAL OF IMAGE AND GRAPHICS}
 }
 ```
