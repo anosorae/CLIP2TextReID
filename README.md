@@ -1,4 +1,4 @@
-# [JIG2022] Temperature-scaled Projection Matching with CLIP for Text-to-Image Person Re-identification [pdf](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202206090000003&journal_id=jig)
+# [JIG2022] Transformer Network for Cross-modal Text-to-Image Person Re-identification [pdf](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202206090000003&journal_id=jig)
 
 The official repository for 面向跨模态文本到图像行人重识别的Transformer网络(Transformer Network for Cross-modal Text-to-Image Person Re-identification) achieves state-of-the-art performances on text-to-image person ReID.
 
